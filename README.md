@@ -6,4 +6,5 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
 # 效果图
-![img](https://github.com/w19961009/WaterBubble/tree/master/WaterBubble/screenshots/GIF.gif)
+[![img]](https://github.com/w19961009/WaterBubble/tree/master/WaterBubble/screenshots/GIF.gif) 
+![img](https://github.com/w19961009/WaterBubble/tree/master/WaterBubble/screenshots/img.gif "点击查看gif动画")
